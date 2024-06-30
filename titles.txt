@@ -10,33 +10,33 @@ Backend Software Engineer
 Full stack Developer
 .NET Software Engineer
 Expressions of Interest - Internship and Graduate Software Engineers
-Front End Developer for the European Commission
 Java Developer
 .NET Developer
 Software Developer Intern
-Software Developer .NET/Azure
 Software Engineer
-Full Stack Java Developer
-Full Stack Developer
 Full Stack Engineer
-Back End Developer
+Full Stack Java Developer
+Software Developer .NET/Azure
+Front End Developer for the European Commission
+Full Stack Developer
 Dotnet Developer
-Senior Software Engineer
+Back End Developer
 .Net Developer
+Senior Software Engineer
 .NET Developer
-Full Stack .NET Developer
 Frontend Engineer / Frontend developer (Scale-up in East Flandres)
+Full Stack .NET Developer
 Full Stack Developer
 Javascript Developer
-GRADUATE SOFTWARE ENGINEER - Dubai, UAE
 Full-stack developer
 FullStack Java/Angular Developer
 Full Stack Engineer
 Software Developer
+GRADUATE SOFTWARE ENGINEER - Dubai, UAE
+Internship - Fullstack Developer C#/Typescript
 Python Software Engineer
 Fullstack Developer
 Software Engineer
-Internship - Fullstack Developer C#/Typescript
 Dotnet Developer
 Permanent Java Developer
 Junior Software Test Engineer
@@ -55,6 +55,6 @@ Full Stack Developer
 Full Stack Engineer
 Fullstack Developer
 Full stack Developer Java / Mobile
+Angular Developer
 Junior Embedded Software Integrator
 C# .NET Developer
-Angular Developer
